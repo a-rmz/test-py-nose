@@ -1,4 +1,4 @@
-FROM python:3.5.4
+FROM python:3.6.4
 RUN apt-get update -qq \
   && apt-get upgrade -qq -y
 
